@@ -3,6 +3,7 @@
 // instead, do the following
 // go build main.go
 // ./main main.go
+
 package main
 
 import (
